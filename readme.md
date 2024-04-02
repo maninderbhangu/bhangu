@@ -1,0 +1,20 @@
+#Student Performance Tracking 
+
+#Executive Summary:
+
+The student performance tracking system is a tool designed to monitor and analyze students' academic progress over time. The system allows educators to produce reports, tables, and charts to summarize students' academic and social/emotional/behavioral growth. It is designed to level the playing field for disadvantaged students by providing financial assistance to their schools to compensate for the advantages enjoyed at schools with students from more affluent families. The system is cloud-based, with role-based user accounts and regular updates. It works seamlessly with various standardized screening and progress monitoring measures, and allows teachers to allocate services within a Multi-Tiered System of Supports (MTSS), determine responsiveness to instruction, develop and monitor student goals, and determine entitlement for special education services.
+
+#Specifications:
+
+The system is designed to provide high-quality information about the quality of instruction and student performance. It should be transparent, with everyone in the system knowing what is expected, what they will be measured on, and what the results imply for what they should do next. The system should be continuously modified and adapted as educators and policy makers learn from their own experience and the experience of others.
+
+Standards for student performance are at the heart of the system. Standards should be clear, parsimonious, and rigorous, and should signal that all students, regardless of background or where they happen to attend school, are expected to demonstrate high levels of knowledge and skill. Content standards should spell out what students should know and be able to do in core subjects, and performance standards should indicate the level of performance students should demonstrate.
+
+Assessments in the system should serve a number of purposes, including guiding instruction, monitoring school and district performance, holding schools accountable for meeting performance goals, and more. The overwhelming majority of standards-based assessments should be sensitive to effective instruction, and should detect the effects of high-quality teaching. Districts, schools, and teachers should use the results of these assessments to revise their practices to help students improve performance.
+
+Assessments should be used to measure the performance of all children, including those in grades K to 3. Teachers should monitor the progress of individual children in grades K to 3 at multiple points in time by using direct assessments, portfolios, checklists, and other work sampling devices. And schools should be accountable for promoting high levels of reading and mathematics performance for primary grade students. For school accountability in grades 1 and 2, states and districts should gauge school quality through the use of sampling, rather than the assessment of every student.
+
+#In conclusion, the student performance tracking system is a powerful tool for educators and policy makers to monitor and analyze students' academic progress over time. By providing high-quality information about the quality of instruction and student performance, the system can help educators and policy makers identify areas of improvement, allocate resources more effectively, and ensure that all students are receiving the education they deserve. The system is designed to be transparent, continuously modified, and adapted to the needs of educators and students, and it places a strong emphasis on standards, assessments, and accountability. By using the system to monitor student performance in core subjects, teachers can guide instruction, revise their practices, and help students improve their performance. The system can also help schools and districts promote high levels of reading and mathematics performance for primary grade students, and ensure that all students are on track to meet the performance standards set by their states.
+
+
+
